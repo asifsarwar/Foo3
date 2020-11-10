@@ -6,7 +6,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            Factorial.Show(10);
             Console.WriteLine("Asif Sarwar!");
+            Console.ReadLine();
         }
     }
 }
